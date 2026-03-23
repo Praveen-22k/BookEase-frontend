@@ -68,7 +68,7 @@ export default function RegisterPage() {
                     type="text"
                     name="name"
                     className="form-control"
-                    placeholder="John Doe"
+                    placeholder="Your Name"
                     value={form.name}
                     onChange={handleChange}
                     required
